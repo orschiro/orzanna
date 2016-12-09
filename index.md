@@ -2,6 +2,12 @@
 
 [TOC]
 
+# Using non-free Typora.io software
+
+2016-12-09-14:14:44
+
+Typora.io is non-free software. However, I use it because it can export a table of contents and provides a visual table editor. Using non-free software worries me.
+
 # Relying on Google Drive
 
 2016-12-09-14:08:03
