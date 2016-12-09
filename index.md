@@ -2,6 +2,12 @@
 
 [TOC]
 
+# What to do if a job brings you money but not happiness?
+
+2016-12-09-15:06:17
+
+[Listen to the audio](job-money-happiness.mp3)
+
 # Using non-free Typora.io software
 
 2016-12-09-14:14:44
