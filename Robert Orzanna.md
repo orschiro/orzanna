@@ -8,6 +8,12 @@ My email is my first name at my last name dot de.
 
 [TOC]
 
+## Github or NearlyFreeSpeech.net?
+
+2016-12-11-09:47:21
+
+How to decide which of the two is the more sustainable hosting alternative? Github that is used by many open-source projects and thus one can infer that Github helps the open-source movement? Or NearlyFreeSpeech.net that is owned collectively and actively promotes the freedom of speech? These are examples of difficult cases for me to decide which of the presented alternatives is better for sustainable consumption. 
+
 ## Sustainable email list options
 
 2016-12-10-11:41:02
