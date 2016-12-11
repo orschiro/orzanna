@@ -8,6 +8,12 @@ My email is my first name at my last name dot de.
 
 [TOC]
 
+## How to avoid the digital lock-in?
+
+2016-12-11-22:38:09
+
+[Listen to the audio](digital-lock-in.mp3).
+
 ## Github or NearlyFreeSpeech.net?
 
 2016-12-11-09:47:21
@@ -27,7 +33,7 @@ It does not have to be Google Groups. There are alternatives. Here are two ideas
 
 2016-12-09-15:06:17
 
-[Listen to the audio](job-money-happiness.mp3)
+[Listen to the audio](job-money-happiness.mp3).
 
 ## Using non-free Typora.io software
 
