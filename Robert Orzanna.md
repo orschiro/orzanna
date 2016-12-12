@@ -8,6 +8,12 @@ My email is my first name at my last name dot de.
 
 [TOC]
 
+## Sustainable consumption and care
+
+2016-12-12-20:27:21
+
+I can speak a lot about sustainable consumption and preach to other people how much more personal satisfaction I gain from supporting alternatives. However, this falls short if I am not able to take care of things myself. I tend to carelessly use my "stuff". Things tend to break very quickly with me and do not last for a long time. Something I need to work on myself. I cannot solely blame the producer to please produce more durable objects that are impossible to break.
+
 ## Creating an automatic timestamp entry using CopyQ
 
 2016-12-12-09:02:30
