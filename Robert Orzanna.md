@@ -8,6 +8,20 @@ My email is my first name at my last name dot de.
 
 [TOC]
 
+## Creating an automatic timestamp entry using CopyQ
+
+2016-12-12-09:02:30
+
+CopyQ is an excellent open-source tool to automatically generate a timestamp like the above one. The implementation is shown in [this screenshot](copyq-timestamp.png). I assign this functionality to a keyboard shortcut to automatically paste the timestamp into my documents. 
+
+`copyq:`
+
+`var time = dateString('yyyy-MM-dd-hh:mm:ss')`
+
+`copy(time)`
+
+`paste()`
+
 ## How to avoid the digital lock-in?
 
 2016-12-11-22:38:09
