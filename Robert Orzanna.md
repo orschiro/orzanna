@@ -1,6 +1,6 @@
 # Robert Orzanna
 
-My email is my first name at my last name dot de.
+[Email](http://orzanna.de/email.png). [CV](http://orzanna.de/CV.pdf).
 
 ------
 
