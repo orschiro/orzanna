@@ -2,10 +2,6 @@
 
 [Email](http://orzanna.de/email.png). [CV](http://orzanna.de/CV.pdf).
 
-------
-
-
-
 [TOC]
 
 ## Sustainable consumption and care
