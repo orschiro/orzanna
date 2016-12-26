@@ -1,8 +1,21 @@
+---
+title: Robert Orzanna
+author: Robert Orzanna
+---
+
+
+
 # Robert Orzanna
 
 [Email](http://orzanna.de/email.png). [CV](http://orzanna.de/CV.pdf).
 
 [TOC]
+
+## Chrome solves these things better than Firefox
+
+2016-12-26-10:10:01
+
+[Read the article.](https://bold.io/chrome-solves-these-things-better-2016-12-26)
 
 ## Sustainable consumption and care
 
