@@ -17,12 +17,6 @@ to listen to the Degrowth Audiobook Podcast[^DegrowthAudiobook] that I am coordi
 If you are a research scholar, you might be interested in my co-authored publication "Culture meets Flows: The Cultural Dimension of
 Urban Metabolism"[^CulturemeetsFlows] that had been cited by the German Advisory Council on
 Global Change in the report "Humanity on the move: Unlocking the transformative power of cities"[^Humanityonthemove].
-
-Lastly, I share my life learning lessons that hold important truth inside them.
-
-1. Do not delete old creations. Base new creations on the old.
-2. …more to follow soon…
-
 </div>
 
   [^email]: [http://www.orzanna.de/email.png](http://www.orzanna.de/email.png)
