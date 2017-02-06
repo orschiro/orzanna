@@ -1,3 +1,10 @@
+---
+title: Robert Orzanna
+header-includes:
+    <meta name="keywords" content="robert,orzanna,orschiro,degrowth,sustainable consumption,linux,ubuntu,open-source" />
+    <meta name="description" content="Welcome to my personal website." />
+---
+
 <div style="width: 50%; text-align: justify;">
 
 Robert Orzanna
