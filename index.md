@@ -2,13 +2,10 @@
 title: Robert Orzanna
 header-includes:
     <meta name="keywords" content="robert,orzanna,orschiro,degrowth,sustainable consumption,linux,ubuntu,open-source" />
-    <meta name="description" content="Welcome to my personal website." />
+    <meta name="description" content="Welcome to the personal website of Robert Orzanna." />
 ---
 
 <div style="width: 50%; text-align: justify;">
-
-Robert Orzanna
-==============
 
 I focus on degrowth[^degrowth], sustainable consumption[^scorai], a good life and
 humane technology. For any of these, I am happy to talk to you and collaborate
