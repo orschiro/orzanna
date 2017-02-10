@@ -26,7 +26,7 @@ Global Change in the report "Humanity on the move: Unlocking the transformative 
   [^email]: [http://www.orzanna.de/email.png](http://www.orzanna.de/email.png)
   [^degrowth]: [http://www.degrowth.org](http://www.degrowth.org)
   [^scorai]: [http://www.scorai.org](http://www.scorai.org)
-  [^CV]: [http://www.orzanna.de/CV.html](http://www.orzanna.de/CV.html)
+  [^CV]: [http://www.orzanna.de/cv.html](http://www.orzanna.de/cv.html)
   [^podcast]: You can subscribe to my collection on  [player.fm](https://player.fm/series/robert-orzanna-podcast-collection-last-updated-2017-01-31) or via [RSS](http://feed.informer.com/digests/J5J0XMBNGD/feeder.rss).
   [^DegrowthAudiobook]: [https://degrowthaudiobook.wordpress.com](https://degrowthaudiobook.wordpress.com)
   [^CulturemeetsFlows]: [https://www.researchgate.net/profile/Robert_Orzanna/publication/275715073_Culture_meets_Flows_The_Cultural_Dimension_of_Urban_Metabolism/links/5544f20c0cf23ff71686977e.pdf](https://www.researchgate.net/profile/Robert_Orzanna/publication/275715073_Culture_meets_Flows_The_Cultural_Dimension_of_Urban_Metabolism/links/5544f20c0cf23ff71686977e.pdf)
