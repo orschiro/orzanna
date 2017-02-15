@@ -14,6 +14,9 @@ on projects. :-)
 Write me an email[^email]. If want to know more about me,
 read my CV[^CV].
 
+I spend my working time creating meaningful connections and maintaining authentic conversations at Import Sheet[^1].
+In my free time I contribute to open-source projects I use myself.
+
 I am a big fan of the podcast medium for communication purposes and share my curated
 list of podcasts[^podcast]. Or maybe you want
 to listen to the Degrowth Audiobook Podcast[^DegrowthAudiobook] that I am coordinating.
@@ -31,3 +34,6 @@ Global Change in the report "Humanity on the move: Unlocking the transformative 
   [^DegrowthAudiobook]: [https://degrowthaudiobook.wordpress.com](https://degrowthaudiobook.wordpress.com)
   [^CulturemeetsFlows]: [https://www.researchgate.net/profile/Robert_Orzanna/publication/275715073_Culture_meets_Flows_The_Cultural_Dimension_of_Urban_Metabolism/links/5544f20c0cf23ff71686977e.pdf](https://www.researchgate.net/profile/Robert_Orzanna/publication/275715073_Culture_meets_Flows_The_Cultural_Dimension_of_Urban_Metabolism/links/5544f20c0cf23ff71686977e.pdf)
   [^Humanityonthemove]: [http://pure.iiasa.ac.at/12906/](http://pure.iiasa.ac.at/12906/)
+
+
+[^1]: [https://importsheet.com/](https://importsheet.com/)
