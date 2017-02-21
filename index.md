@@ -7,12 +7,9 @@ header-includes:
 
 <div style="width: 50%; text-align: justify;">
 
-I focus on degrowth[^degrowth], sustainable consumption[^scorai], a good life and
-humane technology. For any of these, I am happy to talk to you and collaborate
-on projects. :-)
+I am interested in degrowth[^degrowth], sustainable consumption[^scorai], optimised digital workspaces and the notion of the good life. For any of these, I am happy to talk to you and collaborate on projects. :-)
 
-Write me an email[^email]. If want to know more about me,
-read my CV[^CV].
+Write me an email[^email]. If want to know more about me, read my CV[^CV].
 
 I spend my working time creating meaningful connections and maintaining authentic conversations at Import Sheet[^1].
 In my free time I contribute to open-source projects I use myself.
