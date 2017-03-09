@@ -8,17 +8,17 @@ header-includes:
 <div style="width: 50%; text-align: justify;">
 I am interested in degrowth[^degrowth], sustainable consumption[^scorai] and minimalism. For any of these, I am happy to talk to you and collaborate on projects. :-)
 
-Write me an email[^email]. If you want to know more about me, you can read my CV[^CV].
+Write me an email[^email]. If you want to know more about me as a person, please take a look at my CV[^CV].
 
-I spend my working day creating meaningful connections and maintaining authentic conversations at Import Sheet[^1].
-In my free time I contribute to open-source software projects I use myself.
+Currently, my main work focuses on supporting the sustainable development of Import Sheet[^1].
+In my free time I contribute to open-source software projects I use myself[^2].
 
-I am a big fan of podcasts as a medium for communication purposes and publicly share my curated
-list of podcasts[^podcast] I listen to myself. Aside, I am coordinating the Degrowth Audiobook Podcast[^DegrowthAudiobook] and warmly invite you to listen to it.
+I am a big fan of podcasts as a medium of communication share my curated
+list of podcasts[^podcast] I listen to myself. Aside, I am coordinating the Degrowth Audiobook Podcast[^DegrowthAudiobook] and invite you to listen to it.
 
-If you are a research scholar, you might be interested in my co-authored publication "Culture meets Flows: The Cultural Dimension of
-Urban Metabolism"[^CulturemeetsFlows] that had been cited by the German Advisory Council on
-Global Change (WBGU) in their report "Humanity on the move: Unlocking the transformative power of cities"[^Humanityonthemove].
+If you are a research scholar, you might be interested in my co-authored publication "*Culture meets Flows: The Cultural Dimension of
+Urban Metabolism*"[^CulturemeetsFlows] that had been cited by the German Advisory Council on
+Global Change (WBGU) in their report "*Humanity on the move: Unlocking the transformative power of cities*"[^Humanityonthemove].
 </div>
 
   [^email]: [http://www.orzanna.de/email.png](http://www.orzanna.de/email.png)
@@ -32,3 +32,6 @@ Global Change (WBGU) in their report "Humanity on the move: Unlocking the transf
 
 
 [^1]: [https://importsheet.com/](https://importsheet.com/)
+
+
+[^2]: [https://github.com/orschiro](https://github.com/orschiro)
