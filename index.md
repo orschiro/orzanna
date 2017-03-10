@@ -11,7 +11,7 @@ I am interested in degrowth[^degrowth], sustainable consumption[^scorai] and min
 Write me an email[^email]. If you want to know more about me as a person, please take a look at my CV[^CV].
 
 Currently, my main work focuses on supporting the sustainable development of Import Sheet[^1].
-In my free time I contribute to open-source software projects I use myself[^2].
+In my free time I contribute to open-source software projects I use myself[^2], as well as assist Amara[^3] and the FZI[^4].
 
 I am a big fan of podcasts as a medium of communication share my curated
 list of podcasts[^podcast] I listen to myself. Aside, I am coordinating the Degrowth Audiobook Podcast[^DegrowthAudiobook] and invite you to listen to it.
@@ -35,3 +35,9 @@ Global Change (WBGU) in their report "*Humanity on the move: Unlocking the trans
 
 
 [^2]: [https://github.com/orschiro](https://github.com/orschiro)
+
+
+[^3]: [http://amara.org/en/](http://amara.org/en/)
+
+
+[^4]: [http://www.fzi.de/en/home/](http://www.fzi.de/en/home/)
