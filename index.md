@@ -10,11 +10,11 @@ I am interested in degrowth[^degrowth], sustainable consumption[^scorai] and hum
 
 Write me an email[^email]. If you want to know more about me as a person, please take a look at my CV[^CV].
 
-Currently, my main work focuses on supporting the sustainable development of Import Sheet[^1].
-In my free time I contribute to open-source software projects I use myself[^2], as well as assist Amara[^3] and the FZI[^4].
+Currently, my main work focuses on supporting the sustainable development of Sheetgo[^1].
+In my free time I contribute to open-source software projects I use myself[^2], as well as assisting the Amara foundation[^3] and the FZI research institute[^4].
 
-I am a big fan of podcasts as a medium of communication share my curated
-list of podcasts[^podcast] I listen to myself. Aside, I am coordinating the Degrowth Audiobook Podcast[^DegrowthAudiobook] and invite you to listen to it.
+I am a big fan of podcasts as a medium of communication and share my curated
+list of podcasts[^podcast] that I listen to myself. Aside, I am the coordinator of the "*Degrowth Audiobook Podcast*"[^DegrowthAudiobook] and invite you to listen to it.
 
 If you are a research scholar, you might be interested in my co-authored publication "*Culture meets Flows: The Cultural Dimension of
 Urban Metabolism*"[^CulturemeetsFlows] that had been cited by the German Advisory Council on
@@ -31,7 +31,7 @@ Global Change (WBGU) in their report "*Humanity on the move: Unlocking the trans
   [^Humanityonthemove]: [http://pure.iiasa.ac.at/12906/](http://pure.iiasa.ac.at/12906/)
 
 
-[^1]: [https://importsheet.com/](https://importsheet.com/)
+[^1]: [https://sheetgo.com/](https://sheetgo.com/)
 
 
 [^2]: [https://github.com/orschiro](https://github.com/orschiro)
