@@ -22,6 +22,7 @@ In this article I am going to describe how the below elements can comprise a hum
 - TSLRT
 - Atom
 - F11 Fullscreen Mode
+- Hemingway Mode
 - Grammarly
 - CrashPlan
 - Rambox
@@ -32,4 +33,5 @@ In this article I am going to describe how the below elements can comprise a hum
 - Shutter
 - FeedReader
 - Ulauncher
+- Inbox by Gmail
 </div>

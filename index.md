@@ -6,7 +6,7 @@ header-includes:
 ---
 
 <div style="width: 50%; text-align: justify;">
-I am interested in degrowth[^degrowth], sustainable consumption[^scorai] and humane technology[^tech]. For any of these, I am happy to talk to you and collaborate on projects. :-)
+I am interested in degrowth[^degrowth] and sustainable consumption[^scorai]. For any of these, I am happy to talk to you and collaborate on projects. :-)
 
 Write me an email[^email]. If you want to know more about me as a person, please take a look at my CV[^CV].
 
