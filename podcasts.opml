@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Pocast Collection</title>
+    <dateModified></dateModified>
+    <ownerName>Robert Orzanna</ownerName>
+  </head>
+  <body>
+<outline text="Stupid Questions for Scientists" _note="http://www.blubrry.com/feeds/sqfs.xml">
+</outline>
+<outline text="NZ Tech Podcast" _note="http://nztp1.libsyn.com/rss">
+</outline>
+<outline text="RadioTux" _note="https://www.radiotux.de/index.php?/feeds/index.rss2">
+</outline>
+<outline text="Linux ohne Angst" _note="http://linuxohneangst.net/?feed=rss2&amp;category\_name=Podcast">
+</outline>
+<outline text="Techview" _note="http://linux-podcast.de/feed/mp3/">
+</outline>
+<outline text="Full Circle News" _note="http://fullcirclemagazine.org/feed/podcast">
+</outline>
+<outline text="Linux Unplugged" _note="https://feeds.feedburner.com/linuxunplugged">
+</outline>
+  </body>
+</opml>
