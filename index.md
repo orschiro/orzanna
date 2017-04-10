@@ -17,6 +17,7 @@ Currently, my main occupation is to support the sustainable development of Sheet
 Here is my current list of *“I Love To”*:
 
 - Drink apple cider vinegar.
+- Wake up at 05:25 AM.
 - Listen[^podcast] and record podcasts[^myPodcasts].
 - Improve Ubuntu MATE[^MATE].
 - Approve subtitles for the Amara foundation[^3].
