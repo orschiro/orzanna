@@ -3,10 +3,10 @@ title: Robert Orzanna
 header-includes:
     <meta name="keywords" content="robert,orzanna,orschiro,degrowth,sustainable consumption,minimalism,postwachstum,linux,ubuntu,open-source" />
     <meta name="description" content="Welcome to the personal website of Robert Orzanna." />
-    <script src="https://txtpen.com/embed.js?site=Robert Orzanna"/>
 ---
 
 <div style="width: 50%; text-align: justify;">
+<script src="https://txtpen.com/embed.js?site=Robert Orzanna"/>
 *“Life is.
 It does not require any further concretization because any descriptive attempt would narrow down the incomprehensiveness of what life can all be.
 How does one live a life that is?”*[^5]
