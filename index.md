@@ -6,7 +6,6 @@ header-includes:
 ---
 
 <div style="width: 50%; text-align: justify;">
-<script src="https://txtpen.com/embed.js?site=Robert Orzanna"/>
 *“Life is.
 It does not require any further concretization because any descriptive attempt would narrow down the incomprehensiveness of what life can all be.
 How does one live a life that is?”*[^5]
@@ -56,3 +55,5 @@ Global Change (WBGU) in their report “*Humanity on the move: Unlocking the tra
 [^myPodcasts]: See [https://shoutengine.com/ShortStories](https://shoutengine.com/ShortStories) and [https://degrowthaudiobook.wordpress.com](https://degrowthaudiobook.wordpress.com)
 
 [^spotify]: [https://open.spotify.com/user/spotify/playlist/0BTnoKdfv5Y60EK5o5bGaq](https://open.spotify.com/user/spotify/playlist/0BTnoKdfv5Y60EK5o5bGaq)
+
+<script src="https://txtpen.com/embed.js?site=Robert Orzanna"/>
