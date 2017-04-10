@@ -55,5 +55,3 @@ Global Change (WBGU) in their report “*Humanity on the move: Unlocking the tra
 [^myPodcasts]: See [https://shoutengine.com/ShortStories](https://shoutengine.com/ShortStories) and [https://degrowthaudiobook.wordpress.com](https://degrowthaudiobook.wordpress.com)
 
 [^spotify]: [https://open.spotify.com/user/spotify/playlist/0BTnoKdfv5Y60EK5o5bGaq](https://open.spotify.com/user/spotify/playlist/0BTnoKdfv5Y60EK5o5bGaq)
-
-<script src="https://txtpen.com/embed.js?site=Robert Orzanna"/>
