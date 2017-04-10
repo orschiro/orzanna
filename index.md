@@ -3,6 +3,7 @@ title: Robert Orzanna
 header-includes:
     <meta name="keywords" content="robert,orzanna,orschiro,degrowth,sustainable consumption,minimalism,postwachstum,linux,ubuntu,open-source" />
     <meta name="description" content="Welcome to the personal website of Robert Orzanna." />
+    <script src="https://txtpen.com/embed.js?site=Robert Orzanna"/>
 ---
 
 <div style="width: 50%; text-align: justify;">
