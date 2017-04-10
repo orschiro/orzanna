@@ -10,15 +10,18 @@ header-includes:
 It does not require any further concretization because any descriptive attempt would narrow down the incomprehensiveness of what life can all be.
 How does one live a life that is?”*[^5]
 
-Hello and welcome to my personal website. If you want to reach out to me, please best write me an email[^email]. If you want to know more about my background, you can take a look at my CV[^CV].
+Hello and welcome. If you want to reach out to me, please best write me an email[^email]. If you want to know more about me, you can take a look at my CV[^CV].
 
-Currently, my main work focuses on supporting the sustainable development of Sheetgo[^1].
+Currently, my main occupation is to support the sustainable development of Sheetgo[^1]. Besides, I endorse to be lazy. There is nothing wrong about it — and it is sustainable, too.
 
-In my free time, I tend to be lazy and do not do too much. Sometimes, however, it occurs to me that I see myself (currently) contributing to Ubuntu MATE[^MATE], the Amara foundation[^3], the FZI [^4], Research & Degrowth[^degrowth], and SCORAI[^scorai].
+Here is my current list of *“I Love To”*:
 
-I love apple cider vinegar. And I love podcasts. See below.
-
-I am a big fan of podcasts as a medium of communication. My (current) favourites are the *PC Games-Podcast (DE), c't uplink (DE), Ubuntu Podcast (EN), Hello Internet (EN), Linux Voice Podcast (EN), #heiseshow (DE), Cortex (EN), Late Night Linux (EN), and the GameStar Podcast (DE)*. Aside, I (currently) have two active podcasts which are the “*Degrowth Audiobook Podcast*”[^DegrowthAudiobook] and “Short Stories”[^ShortStories]
+- Drink apple cider vinegar.
+- Listen[^podcast] and record podcasts[^myPodcasts].
+- Improve Ubuntu MATE[^MATE].
+- Approve subtitles for the Amara foundation[^3].
+- Help the FZI[^4] as a research assistant.
+- Maintain the website of Research & Degrowth[^degrowth] and SCORAI[^scorai].
 
 Finally, if you are a research scholar, you might be interested in my co-authored publication “*Culture meets Flows: The Cultural Dimension of
 Urban Metabolism*”[^CulturemeetsFlows] that had been cited by the German Advisory Council on
@@ -29,25 +32,17 @@ Global Change (WBGU) in their report “*Humanity on the move: Unlocking the tra
   [^degrowth]: [http://www.degrowth.org](http://www.degrowth.org)
   [^scorai]: [http://www.scorai.org](http://www.scorai.org)
   [^CV]: [http://www.orzanna.de/cv.html](http://www.orzanna.de/cv.html)
-  [^podcast]: You can download my subscriptions in a portable .opml format at [https://player.fm/orschiro/subs.opml](https://player.fm/orschiro/subs.opml).
-  [^DegrowthAudiobook]: [https://degrowthaudiobook.wordpress.com](https://degrowthaudiobook.wordpress.com)
+  [^podcast]: [https://player.fm/orschiro/fm](https://player.fm/orschiro/fm).
   [^CulturemeetsFlows]: [https://www.researchgate.net/profile/Robert_Orzanna/publication/275715073_Culture_meets_Flows_The_Cultural_Dimension_of_Urban_Metabolism/links/5544f20c0cf23ff71686977e.pdf](https://www.researchgate.net/profile/Robert_Orzanna/publication/275715073_Culture_meets_Flows_The_Cultural_Dimension_of_Urban_Metabolism/links/5544f20c0cf23ff71686977e.pdf)
   [^Humanityonthemove]: [http://pure.iiasa.ac.at/12906/](http://pure.iiasa.ac.at/12906/)
 
 
 [^1]: [https://sheetgo.com/](https://sheetgo.com/)
 
-
-[^2]: [https://github.com/orschiro](https://github.com/orschiro)
-
-
 [^3]: [http://amara.org/en/](http://amara.org/en/)
 
 
 [^4]: [http://www.fzi.de/en/home/](http://www.fzi.de/en/home/)
-
-[^tech]: [http://www.orzanna.de/humane-technology.html](http://www.orzanna.de/humane-technology.html)
-
 
 [^5]: [https://medium.com/orschiro/life-7091c41a9566#.2waqlqylq](https://medium.com/orschiro/life-7091c41a9566#.2waqlqylq)
 
@@ -55,4 +50,4 @@ Global Change (WBGU) in their report “*Humanity on the move: Unlocking the tra
 [^MATE]: [https://ubuntu-mate.community/users/orschiro](https://ubuntu-mate.community/users/orschiro)
 
 
-[^ShortStories]: [https://shoutengine.com/ShortStories](https://shoutengine.com/ShortStories)
+[^myPodcasts]: See [https://shoutengine.com/ShortStories](https://shoutengine.com/ShortStories) and [https://degrowthaudiobook.wordpress.com](https://degrowthaudiobook.wordpress.com)
