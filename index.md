@@ -18,12 +18,12 @@ Here is my current list of *“I Love To”*:
 
 - Drink apple cider vinegar.
 - Wake up at 05:25 AM.
-- Listen[^podcast] and record podcasts[^myPodcasts].
-- Letting myself go to Acoustic Blues by Spotify[^spotify].
+- Maintain a daily bookmark folder[^bookmark].
+- Listen to[^podcast] and record podcasts[^myPodcasts].
 - Improve Ubuntu MATE[^MATE].
 - Approve subtitles for the Amara foundation[^3].
 - Help the FZI[^4] as a research assistant.
-- Maintain the website of Research & Degrowth[^degrowth] and SCORAI[^scorai].
+- Maintain the websites of Research & Degrowth[^degrowth] and SCORAI[^scorai].
 
 Finally, if you are a research scholar, you might be interested in my co-authored publication “*Culture meets Flows: The Cultural Dimension of
 Urban Metabolism*”[^CulturemeetsFlows] that had been cited by the German Advisory Council on
@@ -55,3 +55,5 @@ Global Change (WBGU) in their report “*Humanity on the move: Unlocking the tra
 [^myPodcasts]: See [https://shoutengine.com/ShortStories](https://shoutengine.com/ShortStories) and [https://degrowthaudiobook.wordpress.com](https://degrowthaudiobook.wordpress.com)
 
 [^spotify]: [https://open.spotify.com/user/spotify/playlist/0BTnoKdfv5Y60EK5o5bGaq](https://open.spotify.com/user/spotify/playlist/0BTnoKdfv5Y60EK5o5bGaq)
+
+[^bookmark]: [[http://www.orzanna.de/bookmark.png](http://www.orzanna.de/bookmark.png)]
