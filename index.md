@@ -18,6 +18,7 @@ Here is my current list of *“I Love To”*:
 
 - Drink apple cider vinegar.
 - Wake up at 05:25 AM.
+- Be boring and go to bed at 10 PM.
 - Maintain a daily bookmark folder[^bookmark].
 - Listen to[^podcast] and record podcasts[^myPodcasts].
 - Improve Ubuntu MATE[^MATE].
