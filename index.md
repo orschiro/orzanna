@@ -35,7 +35,7 @@ Global Change (WBGU) in their report “*Humanity on the move: Unlocking the tra
   [^degrowth]: [http://www.degrowth.org](http://www.degrowth.org)
   [^scorai]: [http://www.scorai.org](http://www.scorai.org)
   [^CV]: [http://www.orzanna.de/cv.html](http://www.orzanna.de/cv.html)
-  [^podcast]: [https://player.fm/orschiro/podcasts](https://player.fm/orschiro/podcasts).
+  [^podcast]: [https://player.fm/orschiro/subs](https://player.fm/orschiro/subs).
   [^CulturemeetsFlows]: [https://www.researchgate.net/profile/Robert_Orzanna/publication/275715073_Culture_meets_Flows_The_Cultural_Dimension_of_Urban_Metabolism/links/5544f20c0cf23ff71686977e.pdf](https://www.researchgate.net/profile/Robert_Orzanna/publication/275715073_Culture_meets_Flows_The_Cultural_Dimension_of_Urban_Metabolism/links/5544f20c0cf23ff71686977e.pdf)
   [^Humanityonthemove]: [http://pure.iiasa.ac.at/12906/](http://pure.iiasa.ac.at/12906/)
 
