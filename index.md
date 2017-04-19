@@ -14,12 +14,11 @@ Hello and welcome. If you want to reach out to me, please best write me an email
 
 Currently, my main occupation is to support the sustainable development of Sheetgo[^1]. Besides, I endorse to be lazy. There is nothing wrong about it — and it is sustainable, too.
 
-Here is my current list of *“I Love To”*:
+Here is my current list of *“I Love To”* items:
 
 - Drink apple cider vinegar.
-- Wake up at 05:25 AM.
-- Be boring and go to bed at 10 PM.
-- Check my daily bookmark folder[^bookmark].
+- Be on my inline skates.
+- Wake up and go to bed early.
 - Listen to[^podcast] and record podcasts[^myPodcasts].
 - Improve Ubuntu MATE[^MATE].
 - Approve subtitles for the Amara foundation[^3].
