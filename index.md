@@ -5,7 +5,7 @@ header-includes:
     <meta name="description" content="Welcome to the personal website of Robert Orzanna." />
 ---
 
-<div style="width: 50%; text-align: justify;">
+<div style="width: 50%; text-align: justify; line-height: 200%;">
 *“Life is.
 It does not require any further concretization because any descriptive attempt would narrow down the incomprehensiveness of what life can all be.
 How does one live a life that is?”*[^5]
