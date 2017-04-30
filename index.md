@@ -8,11 +8,11 @@ header-includes:
 <div style="width: 50%; text-align: justify; line-height: 200%;">
 *“Life is.
 It does not require any further concretization because any descriptive attempt would narrow down the incomprehensiveness of what life can all be.
-How does one live a life that is?”*[^5]
+How does one live life that is?”*[^5]
 
 Hello and welcome. If you want to reach out to me, please best write me an email[^email]. If you want to know more about me, you can take a look at my CV[^CV].
 
-Currently, my main occupation is to support the sustainable development of Sheetgo[^1]. Besides, I endorse to be lazy. There is nothing wrong about it — and it is sustainable, too.
+Currently, I am part of Sheetgo[^1]. Besides, I endorse myself to do little.
 
 Here is my current list of *“Daily Cool Things To-Do List”* items:
 
@@ -34,7 +34,7 @@ Finally, if you are a research scholar, you might be interested in my co-authore
 Urban Metabolism*”[^CulturemeetsFlows] that had been cited by the German Advisory Council on
 Global Change (WBGU) in their report “*Humanity on the move: Unlocking the transformative power of cities*”[^Humanityonthemove].
 
-This simple website is made with ♥ and made possible thanks to Atom Editor[^atom], Github Pages[^githubpages] and Ubuntu MATE[^MATE]. THe source code of this page is publicly available[^source].
+This simple website is made with ♥ and made possible thanks to Atom Editor[^atom], Github Pages[^githubpages] and Ubuntu MATE[^MATE]. The source code of this page is publicly available[^source].
 </div>
 
   [^source]: [https://github.com/orschiro/orzanna.de/tree/gh-pages](https://github.com/orschiro/orzanna.de/tree/gh-pages)
@@ -47,7 +47,7 @@ This simple website is made with ♥ and made possible thanks to Atom Editor[^at
   [^scorai]: [http://www.scorai.org](http://www.scorai.org)
   [^CV]: [http://www.orzanna.de/cv.html](http://www.orzanna.de/cv.html)
   [^podcast]: [https://player.fm/orschiro/subs](https://player.fm/orschiro/subs).
-  [^CulturemeetsFlows]: [https://www.researchgate.net/profile/Robert_Orzanna/publication/275715073_Culture_meets_Flows_The_Cultural_Dimension_of_Urban_Metabolism/links/5544f20c0cf23ff71686977e.pdf](https://www.researchgate.net/profile/Robert_Orzanna/publication/275715073_Culture_meets_Flows_The_Cultural_Dimension_of_Urban_Metabolism/links/5544f20c0cf23ff71686977e.pdf)
+  [^CulturemeetsFlows]: [http://www.orzanna.de/culture-urban-metablism.pdf](http://www.orzanna.de/culture-urban-metablism.pdf)
   [^Humanityonthemove]: [http://pure.iiasa.ac.at/12906/](http://pure.iiasa.ac.at/12906/)
   [^1]: [https://sheetgo.com/](https://sheetgo.com/)
   [^3]: [http://amara.org/en/](http://amara.org/en/)
