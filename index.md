@@ -40,38 +40,38 @@ Final note, this simple website is made with ♥ and made possible thanks to Ato
 Now, as promised my attempt to operationalise my own sustainable consumption (work in progress).
 </div>
 
-|        Product         |     Category     |       Stage 1        |         Stage 1          |  Stage 1  |   Stage 2
-| ---------------------- | ---------------- | -------------------- | ------------------------ | --------- | ----------- | --- | --- | --- |
-|                        |                  | Financial support... | ...or pay with your data | Recommend | Invest time
-| Ubuntu Mate            | Software         | X                    |                          | X         | X
-| Hello Internet         | Podcast          | X                    |                          |           |
-| Safe Eyes              | Software         | n/a                  |                          | X         | X
-| CopyQ                  | Software         | X                    |                          |           |
-| Cuttlefish             | Software         | n/a                  |                          |           |
-| Audacity               | Software         | X                    |                          |           |
-| LibreOffice            | Software         | X                    |                          |           |
-| Inkscape               | Software         | X                    |                          |           |
-| Telegram               | Software         | n/a                  | X                        |           |
-| Player FM              | Software         | n/a                  | X                        |           |
-| Thunderbird            | Software         | X                    |                          |           |
-| Pithos                 | Software         | n/a                  |                          |           |
-| Pandora                | Service          | n/a                  | X                        |           |
-| Google Chrome          | Software         | n/a                  | X                        |           |
-| Chromium               | Software         | n/a                  | X                        |           |
-| ShoutEngine            | Service          |                      |                          |           |
-| WhatsApp               | Software         | n/a                  | X                        |           |
-| Unison                 | Software         | X                    |                          |           |
-| Redshift               | Software         | X                    |                          |           |
-| Shutter                | Software         | X                    |                          |           |
-| Albert                 | Software         | X                    |                          |           |
-| Atom                   | Software         | n/a                  |                          |           |
-| Github                 | Service          |                      |                          |           |
-| Git                    | Software         | n/a                  |                          |           |
-| Better Bookmark Button | Chrome Extension | n/a                  |                          |           |
-| Pandoc                 | Software         | X                     |                          |           |
-| Bountysource           | Service          | X                    |                          |           |
-| markdown-table-editor  | Atom Package     | n/a                  |                          |           |
-| Enpass                 | Software         |                      |                          |           |
+|        Product         |     Category     |       Stage 1        |         Stage 1          |  Stage 1  |   Stage 2   |
+| ---------------------- | ---------------- | -------------------- | ------------------------ | --------- | ----------- |
+|                        |                  | Financial support... | ...or pay with your data | Recommend | Invest time |
+| Ubuntu Mate            | Software         | X                    |                          | X         | X           |
+| Hello Internet         | Podcast          | X                    |                          |           |             |
+| Safe Eyes              | Software         | n/a                  |                          | X         | X           |
+| CopyQ                  | Software         | X                    |                          |           |             |
+| Cuttlefish             | Software         | n/a                  |                          |           |             |
+| Audacity               | Software         | X                    |                          |           |             |
+| LibreOffice            | Software         | X                    |                          |           |             |
+| Inkscape               | Software         | X                    |                          |           |             |
+| Telegram               | Software         | n/a                  | X                        |           |             |
+| Player FM              | Software         | n/a                  | X                        |           |             |
+| Thunderbird            | Software         | X                    |                          |           |             |
+| Pithos                 | Software         | n/a                  |                          |           |             |
+| Pandora                | Service          | n/a                  | X                        |           |             |
+| Google Chrome          | Software         | n/a                  | X                        |           |             |
+| Chromium               | Software         | n/a                  | X                        |           |             |
+| ShoutEngine            | Service          |                      |                          |           |             |
+| WhatsApp               | Software         | n/a                  | X                        |           |             |
+| Unison                 | Software         | X                    |                          |           |             |
+| Redshift               | Software         | X                    |                          |           |             |
+| Shutter                | Software         | X                    |                          |           |             |
+| Albert                 | Software         | X                    |                          |           |             |
+| Atom                   | Software         | n/a                  |                          |           |             |
+| Github                 | Service          |                      |                          |           |             |
+| Git                    | Software         | n/a                  |                          |           |             |
+| Better Bookmark Button | Chrome Extension | n/a                  |                          |           |             |
+| Pandoc                 | Software         | X                    |                          |           |             |
+| Bountysource           | Service          | X                    |                          |           |             |
+| markdown-table-editor  | Atom Package     | n/a                  |                          |           |             |
+| Enpass                 | Software         |                      |                          |           |             |
 
   [^source]: [https://github.com/orschiro/orzanna.de/tree/gh-pages](https://github.com/orschiro/orzanna.de/tree/gh-pages)
   [^mindmap]: [http://www.orzanna.de/todo-mindmap.jpg](http://www.orzanna.de/todo-mindmap.jpg)
