@@ -16,7 +16,7 @@ Currently, my main occupation is to support the sustainable development of Sheet
 
 Here is my current list of *“Daily Cool Things To-Do List”* items:
 
-- Begin the day with a morning routine of checking my daily bookmarks folder, drinking coffee and playing guitar.
+- Begin the day with a morning routine of excercising and stretching, nose salt washing, checking my daily bookmarks folder, drinking coffee and playing guitar.
 - Draw my to-dos as a paper mind-map[^mindmap].
 - Drink apple cider vinegar.
 - Eat bee pollen.
@@ -34,9 +34,10 @@ Finally, if you are a research scholar, you might be interested in my co-authore
 Urban Metabolism*”[^CulturemeetsFlows] that had been cited by the German Advisory Council on
 Global Change (WBGU) in their report “*Humanity on the move: Unlocking the transformative power of cities*”[^Humanityonthemove].
 
-This simple website is made with ♥ and made possible thanks to Atom Editor[^atom], Github Pages[^githubpages] and Ubuntu MATE[^MATE].
+This simple website is made with ♥ and made possible thanks to Atom Editor[^atom], Github Pages[^githubpages] and Ubuntu MATE[^MATE]. THe source code of this page is publicly available[^source].
 </div>
 
+  [^source]: [https://github.com/orschiro/orzanna.de/tree/gh-pages](https://github.com/orschiro/orzanna.de/tree/gh-pages)
   [^mindmap]: [http://www.orzanna.de/todo-mindmap.jpg](http://www.orzanna.de/todo-mindmap.jpg)
   [^atom]: [https://atom.io/](https://atom.io/)
   [^githubpages]: [https://pages.github.com/](https://pages.github.com/)
