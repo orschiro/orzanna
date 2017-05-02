@@ -1,14 +1,23 @@
 ---
 title: Robert Orzanna
-header-includes:
+header-includes: |
     <meta name="keywords" content="robert,orzanna,orschiro,degrowth,sustainable consumption,minimalism,postwachstum,linux,ubuntu,open-source" />
     <meta name="description" content="Welcome to the personal website of Robert Orzanna." />
+    <style>
+      table td { border: 1px solid; }
+    </style>
 ---
 
 <div style="width: 50%; text-align: justify; line-height: 200%;">
-*“Life is.
-It does not require any further concretization because any descriptive attempt would narrow down the incomprehensiveness of what life can all be.
-How does one live life that is?”*
+*I haven't found the formula to life (yet). But modest 27 years of experience gave me the current function to work with:*
+
+```
+until Stress = 0
+  declutter {
+    start with:
+      thing.FeelingOverTime != "good"
+  }
+```
 
 Hello and welcome. If you want to reach out to me, please best write me an email[^email]. If you want to know more about me, you can take a look at my CV[^CV].
 
@@ -21,15 +30,13 @@ Currently, I:
 
 This is a list of things I like to do:
 
-- Begin the day with a morning routine of excercising and stretching, nose salt washing, checking my daily bookmarks folder, drinking coffee and playing guitar.
+- Begin the day with a morning routine of excercising and stretching, nose salt washing, drinking apple cider vinegar with bee pollen, going through my daily bookmarks folder, enjoying a coffee and playing guitar.
+- Listen to[^podcast] and record podcasts[^myPodcasts].
 - Draw my to-dos as a paper mind-map[^mindmap].
-- Drink apple cider vinegar.
-- Eat bee pollen.
 - Commute on inline skates.
 - Work at a standing desk.
 - Take micro breaks[^safeeyes].
 - Wake up and go to bed early.
-- Listen to[^podcast] and record podcasts[^myPodcasts].
 
 I have an academic background in sustainable development and spend a lot of time thinking about consumption — this explains the huge table below. As a research scholar you might be interested in my co-authored publication “*Culture meets Flows: The Cultural Dimension of
 Urban Metabolism*”[^CulturemeetsFlows] that had been cited by the German Advisory Council on
@@ -40,54 +47,55 @@ Final note, this simple website is made with ♥ and made possible thanks to Ato
 Now, as promised my attempt to operationalise my own sustainable consumption (work in progress).
 </div>
 <div style="line-height: 200%;">
-|        Product         |     Category     |     Stage 1      |  Stage 1   |      Stage 1       |  Stage 2  |       Stage 3       |    Stage 3    |
-| ---------------------- | ---------------- | :----------------: | :----------: | :------------------: | :---------: | :-------------------: | :-------------: |
-|                        |                  | Donation/Payment | Ad Support | Share Private Data | Recommend | Contribute          | Give Feedback |
-| Ubuntu Mate            | Software         | X                |            | X[^distrowatch]    | X         | X[^UbuntuMateForum] |               |
-| GNOME                  | Software         |                  |            |                    |           |                     |               |
-| Reddit                 | Service          |                  |            |                    |           |                     |               |
-| Language Tool          | Software         |                  |            |                    |           |                     |               |
-| Twitter                | Service          |                  |            |                    |           |                     |               |
-| Hacker News            | Service          |                  |            |                    |           |                     |               |
-| Hello Internet         | Podcast          | X                |            |                    |           |                     |               |
-| Safe Eyes              | Software         | n/a              |            | X                  | X         |                     |               |
-| Disqus                 | Service          |                  | X          | X                  |           |                     |               |
-| Sibbell                | Service          |                  |            | X[^4.5]            |           |                     |               |
-| CopyQ                  | Software         | X                |            |                    |           |                     |               |
-| Cuttlefish             | Software         | n/a              |            |                    |           |                     |               |
-| Audacity               | Software         | X                |            |                    |           |                     |               |
-| LibreOffice            | Software         | X                |            |                    |           |                     |               |
-| Inkscape               | Software         | X                |            |                    |           |                     |               |
-| Telegram               | Software         | n/a              |            | X                  |           |                     |               |
-| Player FM              | Software         | n/a              |            |                    |           |                     |               |
-| Thunderbird            | Software         | X                |            |                    |           |                     |               |
-| Pithos                 | Software         | n/a              |            |                    |           |                     |               |
-| Pandora                | Service          | n/a              |            | X                  |           |                     |               |
-| Google Chrome          | Software         | n/a              |            | X                  |           |                     |               |
-| Google Calendar        | Software         | n/a              |            | X                  |           |                     |               |
-| Gmail                  | Service          |                  |            |                    |           |                     |               |
-| Gmail Offline          | Software         |                  |            |                    |           |                     |               |
-| Chromium               | Software         | n/a              |            | X                  |           |                     |               |
-| Ghostwriter            | Software         | X                |            |                    |           |                     |               |
-| Grammarly              | Software         |                  |            |                    |           |                     |               |
-| ShoutEngine            | Service          |                  |            |                    |           |                     |               |
-| WhatsApp               | Software         | n/a              |            | X                  |           |                     |               |
-| Facebook               | Service          | n/a              |            | X                  |           |                     |               |
-| Messenger              | Software         | n/a              |            | X                  |           |                     |               |
-| Unison                 | Software         | X                |            |                    |           |                     |               |
-| Tasker                 | Software         | X                |            |                    |           |                     |               |
-| Redshift               | Software         | X                |            |                    |           |                     |               |
-| Shutter                | Software         | X                |            |                    |           |                     |               |
-| Albert                 | Software         | X                |            |                    |           |                     |               |
-| Atom                   | Software         | n/a              |            |                    |           |                     |               |
-| Github                 | Service          |                  |            |                    |           |                     |               |
-| Git                    | Software         | n/a              |            |                    |           |                     |               |
-| Stack Exchange         | Service          | n/a              |            |                    |           |                     |               |
-| Better Bookmark Button | Chrome Extension | n/a              |            |                    |           |                     |               |
-| Pandoc                 | Software         | X                |            |                    |           |                     |               |
-| Bountysource           | Service          | X                |            |                    |           |                     |               |
-| markdown-table-editor  | Atom Package     | n/a              |            |                    |           |                     |               |
-| Enpass                 | Software         |                  |            |                    |           |                     |               |
+|        Product         |     Category     |  Stage 1  |      Stage 2      |       Stage 2       |      Stage 2       |       Stage 3      
+| ---------------------- |:----------------:|:---------:|:-----------------:|:-------------------:|:------------------:|:-------------------:|:----------:|
+|                        |                  | Recommend | Financial Support | Advertising Support | Share Private Data |     Co-Produce      |
+| Ubuntu                 |     Software     |           |                   |                     |                    |                     |            |
+| Ubuntu Mate            |     Software     |     X     |                   |   X[^distrowatch]   |         X          | X[^UbuntuMateForum] |            |
+| GNOME                  |     Software     |           |                   |                     |                    |                     |            |
+| Reddit                 |     Service      |           |                   |                     |                    |                     |            |
+| Language Tool          |     Software     |           |                   |                     |                    |                     |            |
+| Twitter                |     Service      |           |                   |                     |                    |                     |            |
+| The Guardian           |     Service      |     X     |                   |                     |                    |                     |            |
+| Hello Internet         |     Podcast      |     X     |                   |                     |                    |                     |            |
+| Safe Eyes              |     Software     |    n/a    |                   |          X          |         X          |                     |            |
+| Disqus                 |     Service      |           |         X         |          X          |                    |                     |            |
+| Sibbell                |     Service      |           |                   |       X[^4.5]       |                    |                     |            |
+| CopyQ                  |     Software     |     X     |                   |                     |                    |                     |            |
+| Cuttlefish             |     Software     |    n/a    |                   |                     |                    |                     |            |
+| Audacity               |     Software     |     X     |                   |                     |                    |                     |            |
+| LibreOffice            |     Software     |     X     |                   |                     |                    |                     |            |
+| Inkscape               |     Software     |     X     |                   |                     |                    |                     |            |
+| Telegram               |     Software     |    n/a    |                   |          X          |                    |                     |            |
+| Player FM              |     Software     |    n/a    |                   |                     |                    |                     |            |
+| Thunderbird            |     Software     |     X     |                   |                     |                    |                     |            |
+| Pithos                 |     Software     |    n/a    |                   |                     |                    |                     |            |
+| Pandora                |     Service      |    n/a    |                   |          X          |                    |                     |            |
+| Google Chrome          |     Software     |    n/a    |                   |          X          |                    |                     |            |
+| Google Calendar        |     Software     |    n/a    |                   |          X          |                    |                     |            |
+| Gmail                  |     Service      |           |                   |                     |                    |                     |            |
+| Gmail Offline          |     Software     |           |                   |                     |                    |                     |            |
+| Chromium               |     Software     |    n/a    |                   |          X          |                    |                     |            |
+| Ghostwriter            |     Software     |     X     |                   |                     |                    |                     |            |
+| Grammarly              |     Software     |           |                   |                     |         X          |          X          |            |
+| ShoutEngine            |     Service      |           |                   |                     |                    |                     |            |
+| WhatsApp               |     Software     |    n/a    |                   |          X          |                    |                     |            |
+| Facebook               |     Service      |    n/a    |                   |          X          |                    |                     |            |
+| Messenger              |     Software     |    n/a    |                   |          X          |                    |                     |            |
+| Unison                 |     Software     |     X     |                   |                     |                    |                     |            |
+| Tasker                 |     Software     |     X     |                   |                     |                    |                     |            |
+| Redshift               |     Software     |     X     |                   |                     |                    |                     |            |
+| Shutter                |     Software     |     X     |                   |                     |                    |                     |            |
+| Albert                 |     Software     |     X     |                   |                     |                    |                     |            |
+| Atom                   |     Software     |    n/a    |                   |                     |                    |                     |            |
+| Github                 |     Service      |           |                   |                     |                    |                     |            |
+| Git                    |     Software     |    n/a    |                   |                     |                    |                     |            |
+| Stack Exchange         |     Service      |    n/a    |                   |                     |                    |                     |            |
+| Better Bookmark Button | Chrome Extension |    n/a    |                   |                     |                    |                     |            |
+| Pandoc                 |     Software     |     X     |                   |                     |                    |                     |            |
+| Bountysource           |     Service      |     X     |                   |                     |                    |                     |            |
+| markdown-table-editor  |   Atom Package   |    n/a    |                   |                     |                    |                     |            |
+| Enpass                 |     Software     |           |                   |                     |                    |                     |            |
 </div>
 
   [^distrowatch]: [https://distrowatch.com/table.php?distribution=ubuntumate](https://distrowatch.com/table.php?distribution=ubuntumate)
@@ -101,7 +109,7 @@ Now, as promised my attempt to operationalise my own sustainable consumption (wo
   [^scorai]: [http://www.scorai.org](http://www.scorai.org)
   [^CV]: [http://www.orzanna.de/cv.html](http://www.orzanna.de/cv.html)
   [^podcast]: [https://player.fm/orschiro/subs](https://player.fm/orschiro/subs).
-  [^CulturemeetsFlows]: [http://www.orzanna.de/culture-urban-metablism.pdf](http://www.orzanna.de/culture-urban-metablism.pdf)
+  [^CulturemeetsFlows]: [http://www.orzanna.de/culture-urban-metabolism.pdf](http://www.orzanna.de/culture-urban-metabolism.pdf)
   [^Humanityonthemove]: [http://pure.iiasa.ac.at/12906/](http://pure.iiasa.ac.at/12906/)
   [^1]: [https://sheetgo.com/](https://sheetgo.com/)
   [^3]: [http://amara.org/en/](http://amara.org/en/)
