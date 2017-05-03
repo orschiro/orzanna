@@ -57,6 +57,7 @@ Now, as promised my attempt to operationalise my own sustainable consumption (wo
 | The Guardian           |     Service      |     X     |                   |                     |                    |                     |     |
 | Hello Internet         |     Podcast      |     X     |                   |                     |                    |                     |     |
 | Late Night Linux       |     Podcast      |           |                   |                     |                    |                     |     |
+| Cortex                 | Podcast                 |           |                   |                     |                    |                     |     |
 | Safe Eyes              |     Software     |    n/a    |                   |          X          |         X          |                     |     |
 | Sibbell                |     Service      |           |                   |       X[^4.5]       |                    |                     |     |
 | CopyQ                  |     Software     |     X     |                   |                     |                    |                     |     |
@@ -72,6 +73,9 @@ Now, as promised my attempt to operationalise my own sustainable consumption (wo
 | Pithos                 |     Software     |    n/a    |                   |                     |                    |                     |     |
 | Pandora                |     Service      |    n/a    |                   |          X          |                    |                     |     |
 | Google Chrome          |     Software     |    n/a    |                   |          X          |                    |                     |     |
+| uBlock                 |     Software     |           |                   |                     |                    |                     |     |
+| HTTPS Everywhere       |     Software     |           |                   |                     |                    |                     |     |
+| Privacy Badger         |     Software     |           |                   |                     |                    |                     |     |
 | Google Calendar        |     Software     |    n/a    |                   |          X          |                    |                     |     |
 | Gmail                  |     Service      |           |                   |                     |                    |                     |     |
 | Gmail Offline          |     Software     |           |                   |                     |                    |                     |     |
@@ -96,7 +100,7 @@ Now, as promised my attempt to operationalise my own sustainable consumption (wo
 | Bountysource           |     Service      |     X     |                   |                     |                    |                     |     |
 | Flattr                 |     Service      |           |                   |                     |                    |                     |     |
 | PayPal                 |     Service      |           |                   |                     |                    |                     |     |
-| Patreon                | Service                 |           |                   |                     |                    |                     |     |
+| Patreon                |     Service      |           |                   |                     |                    |                     |     |
 | markdown-table-editor  |   Atom Package   |    n/a    |                   |                     |                    |                     |     |
 </div>
 
