@@ -48,11 +48,11 @@ Now, as promised my attempt to operationalise my own private (regular) sustainab
 This does not include things I consume for work.
 </div>
 <div style="line-height: 200%;">
-|        Product         |     Category     |       Stage 1: Sustain       | Stage 1: Sustain |  Stage 1: Sustain  | Stage 2: Co-Produce |                     |     |
-| ---------------------- |:----------------:|:----------------------------:|:----------------:|:------------------:|:-------------------:| ------------------- | --- |
+|        Product         |     Category     |       Stage 1: Sustain       | Stage 1: Sustain |  Stage 1: Sustain  | Stage 2: Co-Produce |
+| ---------------------- |:----------------:|:----------------------------:|:----------------:|:------------------:|:-------------------:|
 |                        |                  | Recurring Donation / Payment |    Permit Ads    | Share Private Data |     Contribute      |                     |     |
 | Ubuntu                 |     Software     |                              |                  |                    |                     |                     |     |
-| Ubuntu MATE            |     Software     |              X               |                  |                    |          X          | X[^UbuntuMateForum] |     |
+| Ubuntu MATE            |     Software     |              X               |                  |                    |          X          |  |     |
 | GNOME                  |     Software     |                              |                  |                    |                     |                     |     |
 | Language Tool          |     Software     |                              |                  |                    |                     |                     |     |
 | The Guardian           |     Service      |              X               |                  |                    |                     |                     |     |
@@ -62,8 +62,8 @@ This does not include things I consume for work.
 | Cortex                 |     Podcast      |                              |                  |                    |                     |                     |     |
 | On Being               |     Podcast      |                              |                  |                    |                     |                     |     |
 | PC Games Podcast       |     Podcast      |                              |                  |                    |                     |                     |     |
-| Gamestar Podcast       | Podcast                 |                              |                  |                    |                     |                     |     |
-| Safe Eyes              |     Software     |             n/a              |                  |                   |          X          |                     |     |
+| Gamestar Podcast       |     Podcast      |                              |                  |                    |                     |                     |     |
+| Safe Eyes              |     Software     |             n/a              |                  |                    |          X          |                     |     |
 | CopyQ                  |     Software     |              X               |                  |                    |                     |                     |     |
 | Cuttlefish             |     Software     |             n/a              |                  |                    |                     |                     |     |
 | Audacity               |     Software     |              X               |                  |                    |                     |                     |     |
@@ -84,9 +84,10 @@ This does not include things I consume for work.
 | Google Calendar        |     Software     |             n/a              |                  |         X          |                     |                     |     |
 | Gmail                  |     Service      |                              |                  |                    |                     |                     |     |
 | Gmail Offline          |     Software     |                              |                  |                    |                     |                     |     |
+| Gmail Unsubscribe            | Software                 |                              |                  |                    |                     |                     |     |
 | Chromium               |     Software     |             n/a              |                  |         X          |                     |                     |     |
 | Ghostwriter            |     Software     |              X               |                  |                    |                     |                     |     |
-| Grammarly              |     Software     |                              |                  |                    |          X          | X                   |     |
+| Grammarly              |     Software     |                              |                  |                    |          X          |                    |     |
 | ShoutEngine            |     Service      |                              |                  |                    |                     |                     |     |
 | WhatsApp               |     Software     |             n/a              |                  |         X          |                     |                     |     |
 | Facebook               |     Service      |             n/a              |                  |         X          |                     |                     |     |
@@ -99,14 +100,13 @@ This does not include things I consume for work.
 | Albert                 |     Software     |              X               |                  |                    |                     |                     |     |
 | Atom                   |     Software     |             n/a              |                  |                    |                     |                     |     |
 | Github                 |     Service      |                              |                  |                    |                     |                     |     |
-| Git                    |     Software     |             n/a              |                  |                    |                     |                     |     |
-| Better Bookmark Button | Chrome Extension |             n/a              |                  |                    |                     |                     |     |
+| Git                    |     Software     |             n/a              |                  |                    |                     |                     |     |            |                     |     |
 | Pandoc                 |     Software     |              X               |                  |                    |                     |                     |     |
 | Bountysource           |     Service      |              X               |                  |                    |                     |                     |     |
 | Flattr                 |     Service      |                              |                  |                    |                     |                     |     |
 | PayPal                 |     Service      |                              |                  |                    |                     |                     |     |
 | Patreon                |     Service      |                              |                  |                    |                     |                     |     |
-| markdown-table-editor  |   Atom Package   |             n/a              |                  |                    |                     |                     |     |
+| markdown-table-editor  |   Software   |             n/a              |                  |                    |                     |                     |     |
 </div>
 
   [^distrowatch]: [https://distrowatch.com/table.php?distribution=ubuntumate](https://distrowatch.com/table.php?distribution=ubuntumate)
