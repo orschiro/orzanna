@@ -48,65 +48,69 @@ Now, as promised my attempt to operationalise my own private (regular) sustainab
 This does not include things I consume for work.
 </div>
 <div style="line-height: 200%;">
-|        Product         |     Category     |       Stage 1: Sustain       | Stage 1: Sustain |  Stage 1: Sustain  | Stage 2: Co-Produce |
-| ---------------------- |:----------------:|:----------------------------:|:----------------:|:------------------:|:-------------------:|
-|                        |                  | Recurring Donation / Payment |    Permit Ads    | Share Private Data |     Contribute      |                     |     |
-| Ubuntu                 |     Software     |                              |                  |                    |                     |                     |     |
-| Ubuntu MATE            |     Software     |              X               |                  |                    |          X          |  |     |
-| GNOME                  |     Software     |                              |                  |                    |                     |                     |     |
-| Language Tool          |     Software     |                              |                  |                    |                     |                     |     |
-| The Guardian           |     Service      |              X               |                  |                    |                     |                     |     |
-| Wikipedia              |     Service      |                              |                  |                    |                     |                     |     |
-| Hello Internet         |     Podcast      |              X               |                  |                    |                     |                     |     |
-| Late Night Linux       |     Podcast      |                              |                  |                    |                     |                     |     |
-| Cortex                 |     Podcast      |                              |                  |                    |                     |                     |     |
-| On Being               |     Podcast      |                              |                  |                    |                     |                     |     |
-| PC Games Podcast       |     Podcast      |                              |                  |                    |                     |                     |     |
-| Gamestar Podcast       |     Podcast      |                              |                  |                    |                     |                     |     |
-| Safe Eyes              |     Software     |             n/a              |                  |                    |          X          |                     |     |
-| CopyQ                  |     Software     |              X               |                  |                    |                     |                     |     |
-| Cuttlefish             |     Software     |             n/a              |                  |                    |                     |                     |     |
-| Audacity               |     Software     |              X               |                  |                    |                     |                     |     |
-| LibreOffice            |     Software     |              X               |                  |                    |                     |                     |     |
-| Inkscape               |     Software     |              X               |                  |                    |                     |                     |     |
-| GIMP                   |     Software     |                              |                  |                    |                     |                     |     |
-| Telegram               |     Software     |             n/a              |                  |         X          |                     |                     |     |
-| Player FM              |     Software     |             n/a              |                  |                    |                     |                     |     |
-| AntennaPod             |     Software     |                              |                  |                    |                     |                     |     |
-| Thunderbird            |     Software     |              X               |                  |                    |                     |                     |     |
-| Pithos                 |     Software     |             n/a              |                  |                    |                     |                     |     |
-| Pandora                |     Service      |             n/a              |                  |         X          |                     |                     |     |
-| Google Chrome          |     Software     |             n/a              |                  |         X          |                     |                     |     |
-| uBlock                 |     Software     |                              |                  |                    |                     |                     |     |
-| Easy List              |     Software     |              X               |                  |                    |                     |                     |     |
-| HTTPS Everywhere       |     Software     |                              |                  |                    |                     |                     |     |
-| Privacy Badger         |     Software     |                              |                  |                    |                     |                     |     |
-| Google Calendar        |     Software     |             n/a              |                  |         X          |                     |                     |     |
-| Gmail                  |     Service      |                              |                  |                    |                     |                     |     |
-| Gmail Offline          |     Software     |                              |                  |                    |                     |                     |     |
-| Gmail Unsubscribe            | Software                 |                              |                  |                    |                     |                     |     |
-| Chromium               |     Software     |             n/a              |                  |         X          |                     |                     |     |
-| Ghostwriter            |     Software     |              X               |                  |                    |                     |                     |     |
-| Grammarly              |     Software     |                              |                  |                    |          X          |                    |     |
-| ShoutEngine            |     Service      |                              |                  |                    |                     |                     |     |
-| WhatsApp               |     Software     |             n/a              |                  |         X          |                     |                     |     |
-| Facebook               |     Service      |             n/a              |                  |         X          |                     |                     |     |
-| Messenger              |     Software     |             n/a              |                  |         X          |                     |                     |     |
-| Unison                 |     Software     |              X               |                  |                    |                     |                     |     |
-| CrashPlan              |     Software     |              X               |                  |                    |                     |                     |     |
-| Tasker                 |     Software     |              X               |                  |                    |                     |                     |     |
-| Redshift               |     Software     |              X               |                  |                    |                     |                     |     |
-| Shutter                |     Software     |              X               |                  |                    |                     |                     |     |
-| Albert                 |     Software     |              X               |                  |                    |                     |                     |     |
-| Atom                   |     Software     |             n/a              |                  |                    |                     |                     |     |
-| Github                 |     Service      |                              |                  |                    |                     |                     |     |
-| Git                    |     Software     |             n/a              |                  |                    |                     |                     |     |            |                     |     |
-| Pandoc                 |     Software     |              X               |                  |                    |                     |                     |     |
-| Bountysource           |     Service      |              X               |                  |                    |                     |                     |     |
-| Flattr                 |     Service      |                              |                  |                    |                     |                     |     |
-| PayPal                 |     Service      |                              |                  |                    |                     |                     |     |
-| Patreon                |     Service      |                              |                  |                    |                     |                     |     |
-| markdown-table-editor  |   Software   |             n/a              |                  |                    |                     |                     |     |
+|        Product        | Category |       Stage 1: Sustain       | Stage 1: Sustain |  Stage 1: Sustain  | Stage 2: Co-Produce |     |     |     |     |     |
+| --------------------- |:--------:|:----------------------------:|:----------------:|:------------------:|:-------------------:| --- | --- | --- | --- | --- |
+|                       |          | Recurring Donation / Payment |    Permit Ads    | Share Private Data |     Contribute      |     |     |     |     |     |
+| Ubuntu                | Software |                              |                  |                    |                     |     |     |     |     |     |
+| Ubuntu MATE           | Software |              X               |                  |                    |          X          |     |     |     |     |     |
+| GNOME Screenshot      | Software |                              |                  |                    |                     |     |     |     |     |     |
+| Language Tool         | Software |                              |                  |                    |                     |     |     |     |     |     |
+| The Guardian          | Service  |              X               |                  |                    |                     |     |     |     |     |     |
+| Wikipedia             | Service  |                              |                  |                    |                     |     |     |     |     |     |
+| Hello Internet        | Podcast  |              X               |                  |                    |                     |     |     |     |     |     |
+| Late Night Linux      | Podcast  |                              |                  |                    |                     |     |     |     |     |     |
+| Cortex                | Podcast  |                              |                  |                    |                     |     |     |     |     |     |
+| On Being              | Podcast  |                              |                  |                    |                     |     |     |     |     |     |
+| PC Games Podcast      | Podcast  |                              |                  |                    |                     |     |     |     |     |     |
+| Gamestar Podcast      | Podcast  |                              |                  |                    |                     |     |     |     |     |     |
+| Safe Eyes             | Software |             n/a              |                  |                    |          X          |     |     |     |     |     |
+| CopyQ                 | Software |              X               |                  |                    |                     |     |     |     |     |     |
+| Cuttlefish            | Software |             n/a              |                  |                    |                     |     |     |     |     |     |
+| Audacity              | Software |              X               |                  |                    |                     |     |     |     |     |     |
+| LibreOffice           | Software |              X               |                  |                    |                     |     |     |     |     |     |
+| Inkscape              | Software |              X               |                  |                    |                     |     |     |     |     |     |
+| GIMP                  | Software |                              |                  |                    |                     |     |     |     |     |     |
+| Telegram              | Software |             n/a              |                  |         X          |                     |     |     |     |     |     |
+| Player FM             | Software |             n/a              |                  |                    |                     |     |     |     |     |     |
+| AntennaPod            | Software |                              |                  |                    |                     |     |     |     |     |     |
+| Thunderbird           | Software |              X               |                  |                    |                     |     |     |     |     |     |
+| Pithos                | Software |             n/a              |                  |                    |                     |     |     |     |     |     |
+| Pandora               | Service  |             n/a              |                  |         X          |                     |     |     |     |     |     |
+| Google Chrome         | Software |             n/a              |                  |         X          |                     |     |     |     |     |     |
+| uBlock                | Software |                              |                  |                    |                     |     |     |     |     |     |
+| Easy List             | Software |              X               |                  |                    |                     |     |     |     |     |     |
+| HTTPS Everywhere      | Software |                              |                  |                    |                     |     |     |     |     |     |
+| Privacy Badger        | Software |                              |                  |                    |                     |     |     |     |     |     |
+| Google Calendar       | Software |             n/a              |                  |         X          |                     |     |     |     |     |     |
+| Gmail                 | Service  |                              |                  |                    |                     |     |     |     |     |     |
+| Gmail Offline         | Software |                              |                  |                    |                     |     |     |     |     |     |
+| Gmail Unsubscribe     | Software |                              |                  |                    |                     |     |     |     |     |     |
+| Chromium              | Software |             n/a              |                  |         X          |                     |     |     |     |     |     |
+| Ghostwriter           | Software |              X               |                  |                    |                     |     |     |     |     |     |
+| Markdown              | Software |                              |                  |                    |                     |     |     |     |     |     |
+| Grammarly             | Software |                              |                  |                    |          X          |     |     |     |     |     |
+| ShoutEngine           | Service  |                              |                  |                    |                     |     |     |     |     |     |
+| WhatsApp              | Software |             n/a              |                  |         X          |                     |     |     |     |     |     |
+| Facebook              | Service  |             n/a              |                  |         X          |                     |     |     |     |     |     |
+| Messenger             | Software |             n/a              |                  |         X          |                     |     |     |     |     |     |
+| Unison                | Software |              X               |                  |                    |                     |     |     |     |     |     |
+| CrashPlan             | Software |              X               |                  |                    |                     |     |     |     |     |     |
+| Tasker                | Software |              X               |                  |                    |                     |     |     |     |     |     |
+| Redshift              | Software |              X               |                  |                    |                     |     |     |     |     |     |
+| Shutter               | Software |              X               |                  |                    |                     |     |     |     |     |     |
+| Albert                | Software |              X               |                  |                    |                     |     |     |     |     |     |
+| Atom                  | Software |             n/a              |                  |                    |                     |     |     |     |     |     |
+| Git Plus              | Software |                              |                  |                    |                     |     |     |     |     |     |
+| Pandoc Convert        | Software         |                              |                  |                    |                     |     |     |     |     |     |
+| Github                | Service  |                              |                  |                    |                     |     |     |     |     |     |
+| Github Pages          |          |                              |                  |                    |                     |     |     |     |     |     |
+| Git                   | Software |             n/a              |                  |                    |                     |     |     |     |     |     |
+| Pandoc                | Software |              X               |                  |                    |                     |     |     |     |     |     |
+| Bountysource          | Service  |              X               |                  |                    |                     |     |     |     |     |     |
+| Flattr                | Service  |                              |                  |                    |                     |     |     |     |     |     |
+| PayPal                | Service  |                              |                  |                    |                     |     |     |     |     |     |
+| Patreon               | Service  |                              |                  |                    |                     |     |     |     |     |     |
+| markdown-table-editor | Software |             n/a              |                  |                    |                     |     |     |     |     |     |
 </div>
 
   [^distrowatch]: [https://distrowatch.com/table.php?distribution=ubuntumate](https://distrowatch.com/table.php?distribution=ubuntumate)
