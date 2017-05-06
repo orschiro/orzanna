@@ -3,12 +3,7 @@ title: Robert Orzanna
 header-includes: |
     <meta name="keywords" content="robert,orzanna,orschiro,degrowth,sustainable consumption,minimalism,postwachstum,linux,ubuntu,open-source" />
     <meta name="description" content="Welcome to the personal website of Robert Orzanna." />
-    <style>
-      table td { border: 1px solid; }
-    </style>
 ---
-
-<div style="width: 100%; text-align: justify; line-height: 200%;">
 
 # Robert Orzanna
 
@@ -43,12 +38,10 @@ This is a list of things I like to do:
 
 I have an academic background in sustainable development and spend a lot of time thinking about consumption — this explains the huge table below. As a research scholar you might be interested in my co-authored publication “*Culture meets Flows: The Cultural Dimension of Urban Metabolism*”[^CulturemeetsFlows] that had been cited by the German Advisory Council on Global Change (WBGU) in their report “*Humanity on the move: Unlocking the transformative power of cities*”[^Humanityonthemove].
 
-Final note, this simple website is made with ♥ and made possible thanks to Atom Editor[^atom], Github Pages[^githubpages] and Ubuntu MATE[^MATE]. The source code of this page is publicly available[^source].
+Final note, this simple website is made with ♥ and made possible thanks to Typora[^typora], Github Pages[^githubpages] and Ubuntu MATE[^MATE]. The source code of this page is publicly available[^source].
 
 Now, as promised my attempt to operationalise my own private (regular) sustainable consumption (work in progress).
 This does not include things I consume for work.
-</div>
-<div style="line-height: 200%;">
 | Product               | Category |       Stage 1: Sustain       | Stage 1: Sustain |  Stage 1: Sustain  | Stage 2: Co-Produce |
 | --------------------- | :------: | :--------------------------: | :--------------: | :----------------: | :-----------------: |
 |                       |          | Recurring Donation / Payment |    Permit Ads    | Share Private Data |     Contribute      |
@@ -83,6 +76,7 @@ This does not include things I consume for work.
 | Easy List             | Software |              X               |                  |                    |                     |
 | HTTPS Everywhere      | Software |                              |                  |                    |                     |
 | Last Pass             | Software |                              |                  |                    |                     |
+| Read Aloud            | Software |                              |                  |                    |                     |
 | Privacy Badger        | Software |                              |                  |                    |                     |
 | Google Calendar       | Software |             n/a              |                  |         X          |                     |
 | Gmail                 | Service  |                              |                  |                    |                     |
@@ -115,8 +109,6 @@ This does not include things I consume for work.
 | PayPal                | Service  |                              |                  |                    |                     |
 | Patreon               | Service  |                              |                  |                    |                     |
 | markdown-table-editor | Software |             n/a              |                  |                    |                     |
-</div>
-
 [^distrowatch]: [https://distrowatch.com/table.php?distribution=ubuntumate](https://distrowatch.com/table.php?distribution=ubuntumate)
 [^source]: [https://github.com/orschiro/orzanna.de/tree/gh-pages](https://github.com/orschiro/orzanna.de/tree/gh-pages)
 [^mindmap]: [http://www.orzanna.de/todo-mindmap.jpg](http://www.orzanna.de/todo-mindmap.jpg)
@@ -127,7 +119,7 @@ This does not include things I consume for work.
 [^degrowth]: [http://www.degrowth.org](http://www.degrowth.org)
 [^scorai]: [http://www.scorai.org](http://www.scorai.org)
 [^CV]: [http://www.orzanna.de/cv.html](http://www.orzanna.de/cv.html)
-[^podcast]: [https://player.fm/orschiro/subs](https://player.fm/orschiro/subs).
+[^podcast]: I am currently listening to the Ubuntu Podcast, On Being, the PC Games Podcast, the Gamestar Podcast, Cortex, Hello Internet, extra3 and the heute-show.
 [^CulturemeetsFlows]: [http://www.orzanna.de/culture-urban-metabolism.pdf](http://www.orzanna.de/culture-urban-metabolism.pdf)
 [^Humanityonthemove]: [http://pure.iiasa.ac.at/12906/](http://pure.iiasa.ac.at/12906/)
 [^1]: [https://sheetgo.com/](https://sheetgo.com/)
@@ -140,5 +132,5 @@ This does not include things I consume for work.
 
 [^4.5]: [https://www.producthunt.com/posts/sibbel](https://www.producthunt.com/posts/sibbel)
 
-
 [^UbuntuMateForum]: [https://ubuntu-mate.community/users/orschiro/summary](https://ubuntu-mate.community/users/orschiro/summary)
+[^typora]: [http://typora.io](http://typora.io)
