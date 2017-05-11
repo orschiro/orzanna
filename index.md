@@ -34,6 +34,8 @@ This is a list of things I like to do:
 - Be on my inline skates.
 - Work at a standing desk.
 - Take regular breaks[^safeeyes].
+- Not use my laptop in the evening hours.
+- Regularly read a newspaper printed on real paper to support investigative journalism.
 - Maintain a routine of having a decent sleep cycle.
 
 I have an academic background in sustainable development and spend a lot of time thinking about consumption — this explains the huge table below which is still work-in-progress. As a research scholar you might be interested in my co-authored publication “*Culture meets Flows: The Cultural Dimension of Urban Metabolism*”[^CulturemeetsFlows] that had been cited by the German Advisory Council on Global Change (WBGU) in their report “*Humanity on the move: Unlocking the transformative power of cities*”[^Humanityonthemove].
