@@ -30,7 +30,7 @@ This is a list of things I like to do:
 
 - Begin the day with a morning routine of exercising and stretching, nose salt washing, drinking apple cider vinegar, going through my daily list of web bookmarks while enjoying a good coffee and playing the guitar.
 - Listen to[^podcast] and record podcasts[^myPodcasts].
-- Draw my to-dos as a paper mind-map[^mindmap].
+- Write my to-do in paper-based Markdown[^markdownpaper].
 - Be on my inline skates.
 - Work at a standing desk.
 - Take regular breaks[^safeeyes].
@@ -40,7 +40,7 @@ I have an academic background in sustainable development and spend a lot of time
 
 Final note, this simple website is updated regularly with ♥ and made possible thanks to Typora[^typora], Github Pages[^githubpages] and Ubuntu MATE[^MATE]. The source code of this page is publicly available[^source].
 
-## Consumption Table
+## Table of Regular Sustainable Consumption
 
 | Product          | Category |                 Comment                  |       Stage 1: Sustain       | Stage 1: Sustain |  Stage 1: Sustain  | Stage 2: Promote |   Stage 3: Co-Produce    |
 | ---------------- | :------: | :--------------------------------------: | :--------------------------: | :--------------: | :----------------: | :--------------: | :----------------------: |
@@ -107,7 +107,7 @@ Final note, this simple website is updated regularly with ♥ and made possible 
 | Patreon          | Service  |                                          |                              |                  |                    |                  |                          |
 [^distrowatch]: [https://distrowatch.com/table.php?distribution=ubuntumate](https://distrowatch.com/table.php?distribution=ubuntumate)
 [^source]: [https://github.com/orschiro/orzanna.de/tree/gh-pages](https://github.com/orschiro/orzanna.de/tree/gh-pages)
-[^mindmap]: [http://www.orzanna.de/todo-mindmap.jpg](http://www.orzanna.de/todo-mindmap.jpg)
+[^markdownpaper]: [http://www.orzanna.de/markdown-paper-todo.jpg](http://www.orzanna.de/markdown-paper-todo.jpg)
 [^atom]: [https://atom.io/](https://atom.io/)
 [^githubpages]: [https://pages.github.com/](https://pages.github.com/)
 [^safeeyes]: [https://slgobinath.github.io/SafeEyes/](https://slgobinath.github.io/SafeEyes/)
