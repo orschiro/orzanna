@@ -29,7 +29,7 @@ Currently, I:
 This is a list of things I like to do:
 
 - Begin the day with a morning routine of exercising and stretching, nose salt washing, drinking apple cider vinegar, going through my daily list of web bookmarks while enjoying a good coffee and playing the guitar.
-- Listen to[^podcast] and record podcasts[^myPodcasts].
+- Listen to[^podcast], coordinate[^degrowthpodcast], and record podcasts[^myPodcasts].
 - Write my to-do in paper-based Markdown[^markdownpaper].
 - Be on my inline skates.
 - Work at a standing desk.
@@ -74,7 +74,7 @@ Final note, this simple website is updated regularly with ♥ and made possible 
 | Inkscape         | Software |                                          |                        |              X               |                  |                    |                          |
 | GIMP             | Software |                                          |                        |                              |                  |                    |                          |
 | Telegram         | Software |                                          |                        |             n/a              |                  |         ?          |                          |
-| AntennaPod       | Software |                                          |                        |                              |                  |                    |                          |
+| AntennaPod       | Software |                                          |                        |             n/a              |                  |                    |                          |
 | Thunderbird      | Software |                                          |                        |              X               |                  |                    |                          |
 | Pithos           | Software |                                          |                        |             n/a              |                  |                    |                          |
 | Pandora          | Service  |                                          |                        |             n/a              |                  |         X          |                          |
@@ -140,3 +140,4 @@ Final note, this simple website is updated regularly with ♥ and made possible 
 [^typoraShare]: [https://alternativeto.net/software/typora/](https://alternativeto.net/software/typora/)
 [^UbuntuMATEContribute]: [https://ubuntu-mate.community/users/orschiro](https://ubuntu-mate.community/users/orschiro)
 [^ubuntupodcastshare]: I followed the podcast on [Twitter](https://twitter.com/ubuntupodcast), [Google+](https://plus.google.com/+ubuntupodcast), liked it on [Facebook](https://www.facebook.com/UbuntuUKPodcast), and subscribed on [Reddit](https://www.reddit.com/r/UbuntuPodcast/) to support all possible metrics.
+[^degrowthpodcast]: [https://degrowthaudiobook.wordpress.com](https://degrowthaudiobook.wordpress.com)
