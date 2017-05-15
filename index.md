@@ -51,7 +51,6 @@ Final note, this simple website is updated regularly with ♥ and made possible 
 | Ubuntu           | Software |       Shall I donate to a company?       |                        |                              |                  |                    |                          |
 | Ubuntu MATE      | Software |                                          |                        |              X               |                  |                    | X[^UbuntuMATEContribute] |
 | MATE Desktop     | Software |                                          |                        |              X               |                  |                    |                          |
-| GNOME Screenshot | Software |   Trying to switch to MATE Screenshot    |                        |                              |                  |                    |                          |
 | SMPlayer         | Software |                                          |                        |              X               |                  |                    |                          |
 | Green Recorder   | Software |                                          |                        |                              |                  |                    |                          |
 | Language Tool    | Software |                                          |                        |              X               |                  |                    |                          |
@@ -74,7 +73,7 @@ Final note, this simple website is updated regularly with ♥ and made possible 
 | Inkscape         | Software |                                          |                        |              X               |                  |                    |                          |
 | GIMP             | Software |                                          |                        |                              |                  |                    |                          |
 | Telegram         | Software |                                          |                        |             n/a              |                  |         ?          |                          |
-| AntennaPod       | Software |                                          |                        |             n/a              |                  |                    |                          |
+| Podcast Addict   | Software |                                          |                        |             n/a              |                  |                    |                          |
 | Thunderbird      | Software |                                          |                        |              X               |                  |                    |                          |
 | Pithos           | Software |                                          |                        |             n/a              |                  |                    |                          |
 | Pandora          | Service  |                                          |                        |             n/a              |                  |         X          |                          |
@@ -84,6 +83,8 @@ Final note, this simple website is updated regularly with ♥ and made possible 
 | HTTPS Everywhere | Software |                                          |                        |                              |                  |                    |                          |
 | Read Aloud       | Software |                                          |                        |                              |                  |                    |                          |
 | Privacy Badger   | Software |                                          |                        |                              |                  |                    |                          |
+| Zen Tab Pad      | Software |                                          |                        |                              |                  |                    |                          |
+| TSRLT            | Software |                                          |                        |                              |                  |                    |                          |
 | Google Calendar  | Software |                                          |                        |             n/a              |                  |         X          |                          |
 | Gmail            | Service  |                                          |                        |                              |                  |         X          |                          |
 | Gmail Offline    | Software |                                          |                        |                              |                  |         X          |                          |
@@ -120,7 +121,7 @@ Final note, this simple website is updated regularly with ♥ and made possible 
 [^degrowth]: [http://www.degrowth.org](http://www.degrowth.org)
 [^scorai]: [http://www.scorai.org](http://www.scorai.org)
 [^CV]: [http://www.orzanna.de/cv.html](http://www.orzanna.de/cv.html)
-[^podcast]: I am currently listening to the [Ubuntu Podcast](http://ubuntupodcast.org/), [On Being](https://onbeing.org/subscribe/), the [PC Games Podcast](http://www.pcgames.de/PC-Games-Podcast-Thema-233689/), the [Gamestar Podcast](http://www.gamestar.de/themen/gamestar-podcast,28/index.html), [Cortex](https://www.relay.fm/cortex), [Hello Internet](http://www.hellointernet.fm/), [extra3](https://www.ndr.de/fernsehen/sendungen/extra_3/video-podcast/index.html) and the [heute-show](http://shoutengine.com/heuteshowFanPodcast/).
+[^podcast]: My regular list of podcast I listen to consists of the [Ubuntu Podcast](http://ubuntupodcast.org/), [On Being](https://onbeing.org/subscribe/), the [PC Games Podcast](http://www.pcgames.de/PC-Games-Podcast-Thema-233689/), the [Gamestar Podcast](http://www.gamestar.de/themen/gamestar-podcast,28/index.html), [Cortex](https://www.relay.fm/cortex), [Hello Internet](http://www.hellointernet.fm/), [extra3](https://www.ndr.de/fernsehen/sendungen/extra_3/video-podcast/index.html) and the [heute-show](http://shoutengine.com/heuteshowFanPodcast/).
 [^CulturemeetsFlows]: [http://www.orzanna.de/culture-urban-metabolism.pdf](http://www.orzanna.de/culture-urban-metabolism.pdf)
 [^Humanityonthemove]: [http://pure.iiasa.ac.at/12906/](http://pure.iiasa.ac.at/12906/)
 [^1]: [https://sheetgo.com/](https://sheetgo.com/)
