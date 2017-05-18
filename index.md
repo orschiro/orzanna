@@ -26,17 +26,18 @@ Currently, I:
 - support the FZI[^4] as a research assistant,
 - and maintain the websites of Research & Degrowth[^degrowth] and SCORAI[^scorai].
 
-This is a list of things I like to do:
+This is a list of things I like to do regularly:
 
-- Begin the day with a morning routine of exercising and stretching, nose salt washing, drinking apple cider vinegar, going through my daily list of web bookmarks while enjoying a good coffee and playing the guitar.
+- Start the day with a good morning routine that begins with waking up at 05:25 AM, nose salt washing, drinking water with a shot of apple cider vinegar, enjoying a good coffee while going through my daily list of web bookmarks, emails and side tasks,  exercising and stretching, playing the guitar, and finally having a good breakfast.
 - Listen to[^podcast], coordinate[^degrowthpodcast], and record podcasts[^myPodcasts].
 - Write my to-do in paper-based Markdown[^markdownpaper].
 - Be on my inline skates.
+- Go for a run every second day or so.
 - Work at a standing desk.
-- Take regular breaks[^safeeyes].
+- Take regular breaks from work[^safeeyes].
 - Try not to use my laptop in the evening hours.
-- Regularly read a newspaper printed on real paper to support investigative journalism.
-- Maintain a routine of having a decent sleep cycle.
+- Regularly read a newspaper printed on real paper to financially aid investigative journalism.
+- Going to bed around 10:00 PM to maintain a decent sleep cycle.
 - Make the weekends different from my weekly routine.
 
 I have an academic background in sustainable development and spend a lot of time thinking about consumption — this explains the huge table below which is still work-in-progress. As a research scholar you might be interested in my co-authored publication “*Culture meets Flows: The Cultural Dimension of Urban Metabolism*”[^CulturemeetsFlows] that had been cited by the German Advisory Council on Global Change (WBGU) in their report “*Humanity on the move: Unlocking the transformative power of cities*”[^Humanityonthemove].
@@ -53,6 +54,7 @@ Final note, this simple website is updated regularly with ♥ and made possible 
 | MATE Desktop     | Software |                                          |                        |              X               |                  |                    |                          |
 | SMPlayer         | Software |                                          |                        |              X               |                  |                    |                          |
 | Green Recorder   | Software |                                          |                        |                              |                  |                    |                          |
+| Peek             | Software |                                          |                        |                              |                  |                    |                          |
 | Language Tool    | Software |                                          |                        |              X               |                  |                    |                          |
 | The Guardian     | Service  | Which newspaper shall I read to support investigative journalism? |                        |         X[^guardian]         |                  |                    |                          |
 | Wikipedia        | Service  |                                          |                        |              X               |                  |                    |            X             |
@@ -139,6 +141,6 @@ Final note, this simple website is updated regularly with ♥ and made possible 
 [^guardian]: [https://contribute.theguardian.com/eu](https://contribute.theguardian.com/eu)
 [^pcgames]: [https://www.patreon.com/pcgames](https://www.patreon.com/pcgames/)
 [^typoraShare]: [https://alternativeto.net/software/typora/](https://alternativeto.net/software/typora/)
-[^UbuntuMATEContribute]: [https://ubuntu-mate.community/users/orschiro](https://ubuntu-mate.community/users/orschiro)
+[^UbuntuMATEContribute]: I help people on the [Ubuntu MATE community forum](https://ubuntu-mate.community/users/orschiro) and translate the project on [Transifex](https://www.transifex.com/ubuntu-mate/ubuntu-mate-welcome/dashboard/).
 [^ubuntupodcastshare]: I followed the podcast on [Twitter](https://twitter.com/ubuntupodcast), [Google+](https://plus.google.com/+ubuntupodcast), liked it on [Facebook](https://www.facebook.com/UbuntuUKPodcast), and subscribed on [Reddit](https://www.reddit.com/r/UbuntuPodcast/) to support all possible metrics.
 [^degrowthpodcast]: [https://degrowthaudiobook.wordpress.com](https://degrowthaudiobook.wordpress.com)
