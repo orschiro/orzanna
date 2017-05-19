@@ -19,14 +19,14 @@ until Stress = 0:
 
 Hello and welcome. If you want to reach out to me, please best write me an email[^email]. If you want to know more about me, you can take a look at my CV[^CV].
 
-Currently, I:
+## Currently, I:
 
 - am part of Sheetgo[^1],
 - approve subtitles for the Amara foundation[^3],
 - support the FZI[^4] as a research assistant,
 - and maintain the websites of Research & Degrowth[^degrowth] and SCORAI[^scorai].
 
-This is a list of things I like to do regularly:
+## This is a list of things I like to do regularly:
 
 - Start the day with a good morning routine that begins with waking up at 05:25 AM, nose salt washing, drinking water with a shot of apple cider vinegar, enjoying a good coffee while going through my daily list of web bookmarks, emails and side tasks,  exercising and stretching, playing the guitar, and finally having a good breakfast.
 - Listen to[^podcast], coordinate[^degrowthpodcast], and record podcasts[^myPodcasts].
@@ -40,11 +40,22 @@ This is a list of things I like to do regularly:
 - Going to bed around 10:00 PM to maintain a decent sleep cycle.
 - Make the weekends different from my weekly routine.
 
+## These are the things I recommend:
+
+- Keep the Wi-Fi on your phone off during your working times.
+- Set up a daily bookmark folder in your web browser to check the things you like once a day.
+- Unsubscribe from all emails that don't mean anything to you.
+- For less important things, communicate asynchronously as much as possible to allow the other to respond whenever he wants without taking him or you out of his flow.
+
+## Academia
+
 I have an academic background in sustainable development and spend a lot of time thinking about consumption — this explains the huge table below which is still work-in-progress. As a research scholar you might be interested in my co-authored publication “*Culture meets Flows: The Cultural Dimension of Urban Metabolism*”[^CulturemeetsFlows] that had been cited by the German Advisory Council on Global Change (WBGU) in their report “*Humanity on the move: Unlocking the transformative power of cities*”[^Humanityonthemove].
+
+## Credits
 
 Final note, this simple website is updated regularly with ♥ and made possible thanks to Typora[^typora], Github Pages[^githubpages] and Ubuntu MATE[^MATE]. The source code of this page is publicly available[^source].
 
-## Table of Regular Sustainable Consumption
+## Appendix: Table of Regular Sustainable Consumption
 
 | Product          | Category |                 Comment                  |    Stage 1: Promote    |       Stage 2: Sustain       | Stage 2: Sustain |  Stage 2: Sustain  |   Stage 3: Co-Produce    |
 | ---------------- | :------: | :--------------------------------------: | :--------------------: | :--------------------------: | :--------------: | :----------------: | :----------------------: |
