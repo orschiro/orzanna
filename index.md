@@ -21,31 +21,32 @@ Hello and welcome. If you want to reach out to me, please best write me an email
 
 ## Currently, I:
 
-- am part of Sheetgo[^1],
+- form part of Sheetgo[^1] to help people solve their isolated spreadsheet challenges,
 - approve subtitles for the Amara foundation[^3],
 - support the FZI[^4] as a research assistant,
-- and maintain the websites of Research & Degrowth[^degrowth] and SCORAI[^scorai].
+- and help the online communication of Research & Degrowth[^degrowth] and SCORAI[^scorai].
 
 ## This is a list of things I like to do regularly:
 
-- Start the day with a good morning routine that begins with waking up at 05:25 AM, nose salt washing, drinking water with a shot of apple cider vinegar, enjoying a good coffee while going through my daily list of web bookmarks, emails and side tasks,  exercising and stretching, playing the guitar, and finally having a good breakfast.
+- Start the day with a good morning routine that begins at 05:25 AM. Primary, nose salt washing, drinking water with a shot of apple cider vinegar, enjoying a good coffee while going through my daily list of web bookmarks, emails and side tasks, exercising and stretching, playing the guitar, and finally having a good breakfast.
 - Listen to[^podcast], coordinate[^degrowthpodcast], and record podcasts[^myPodcasts].
-- Write my to-do in paper-based Markdown[^markdownpaper].
+- Write my to-do list in paper-based Markdown[^markdownpaper].
 - Be on my inline skates.
 - Go for a run every second day or so.
 - Work at a standing desk.
 - Take regular breaks from work[^safeeyes].
-- Try not to use my laptop in the evening hours.
+- Try not to use my laptop after working hours.
 - Regularly read a newspaper printed on real paper to financially aid investigative journalism.
 - Going to bed around 10:00 PM to maintain a decent sleep cycle.
-- Make the weekends different from my weekly routine.
+- And very important: make the weekends different from my weekly routine.
 
-## These are the things I recommend:
+## This is the short list of things I recommend:
 
-- Keep the Wi-Fi on your phone off during your working times.
-- Set up a daily bookmark folder in your web browser to check the things you like once a day.
+- Keep the Wi-Fi on your phone off during working hours to maintain clarity and focus.
+- Set up a daily bookmark folder in your web browser to check the things you like and want to improve once a day.
 - Unsubscribe from all emails that don't mean anything to you.
-- For less important things, communicate asynchronously as much as possible to allow the other to respond whenever he wants without taking him or you out of his flow.
+- For less important things, communicate asynchronously as much as possible to allow the other person to respond whenever he/she wants without taking him/her or you out of flow.
+- For important things, just call or talk in person and confront yourself.
 
 ## Academia
 
@@ -55,13 +56,16 @@ I have an academic background in sustainable development and spend a lot of time
 
 Final note, this simple website is updated regularly with ♥ and made possible thanks to Typora[^typora], Github Pages[^githubpages] and Ubuntu MATE[^MATE]. The source code of this page is publicly available[^source].
 
-## Appendix: Table of Regular Sustainable Consumption
+## Annex: Table of Regular Sustainable Consumption
+
+The objective of this table is to have a clear understanding of what I consume on a regular basis, what this consumptions means to me and how my consumption can positively feed back to its production source. The table is updated on a regular basis and never finished.
 
 | Product          | Category |                 Comment                  |    Stage 1: Promote    |       Stage 2: Sustain       | Stage 2: Sustain |  Stage 2: Sustain  |   Stage 3: Co-Produce    |
 | ---------------- | :------: | :--------------------------------------: | :--------------------: | :--------------------------: | :--------------: | :----------------: | :----------------------: |
 |                  |          |                                          |    Share / Diffuse     | Recurring Donation / Payment |    Permit Ads    | Share Private Data |        Contribute        |
 | Ubuntu           | Software |       Shall I donate to a company?       |                        |                              |                  |                    |                          |
 | Ubuntu MATE      | Software |                                          |                        |              X               |                  |                    | X[^UbuntuMATEContribute] |
+| TLP              | Software |                                          |                        |                              |                  |                    |                          |
 | MATE Desktop     | Software |                                          |                        |              X               |                  |                    |                          |
 | SMPlayer         | Software |                                          |                        |              X               |                  |                    |                          |
 | Green Recorder   | Software |                                          |                        |                              |                  |                    |                          |
