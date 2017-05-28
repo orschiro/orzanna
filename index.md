@@ -64,6 +64,7 @@ The objective of this table is to have a clear understanding of what I consume o
 | ---------------- | :------: | :--------------------------------------: | :--------------------: | :--------------------------: | :--------------: | :----------------: | :----------------------: |
 |                  |          |                                          |    Share / Diffuse     | Recurring Donation / Payment |    Permit Ads    | Share Private Data |        Contribute        |
 | Ubuntu           | Software |       Shall I donate to a company?       |                        |                              |                  |                    |                          |
+| Writefull        | Software |                                          |                        |                              |                  |                    |                          |
 | Ubuntu MATE      | Software |                                          |                        |              X               |                  |                    | X[^UbuntuMATEContribute] |
 | TLP              | Software |                                          |                        |                              |                  |                    |                          |
 | MATE Desktop     | Software |                                          |                        |              X               |                  |                    |                          |
